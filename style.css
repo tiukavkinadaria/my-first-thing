@@ -3,6 +3,9 @@ body {
 }
 
 div {
+    border: 5px dashed red;
+    padding: 10px;
+    border-radius: 8px;
     background-color: #39FF14;
     color: black;
 }
