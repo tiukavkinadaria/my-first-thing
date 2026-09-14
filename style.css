@@ -3,9 +3,9 @@ body {
 }
 
 div {
-    border: 5px dashed red;
+    border: 5px dashed black;
     padding: 10px;
     border-radius: 8px;
-    background-color: #39FF14;
+    background-color: pink;
     color: black;
 }
